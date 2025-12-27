@@ -1,7 +1,7 @@
 📄 Concrete Crack Detection using Sensor Data & Machine Learning
 📌 Project Overview
 This project focuses on detecting and analyzing cracks in concrete structures using piezoelectric sensor conductance data and machine learning techniques.
-Experimental data collected from PPC, FRC, and conventional concrete specimens under varying conditions is used to identify crack initiation and progression.
+Experimental data collected from OPC, PPC, FRC, and conventional concrete specimens under varying conditions is used to identify crack initiation and progression.
 The system processes raw impedance/conductance measurements, applies preprocessing and feature scaling, and builds ML/DL models to detect crack presence and severity.
 
 🎯 Problem Statement
@@ -28,6 +28,7 @@ Conductance and impedance data collected using piezoelectric sensors
 
 
 Experiments performed on:
+OPC concrete
 
 
 PPC concrete
@@ -98,7 +99,7 @@ Evaluation across different concrete types
 5️⃣ Analysis & Validation
 
 
-Compare behavior across PPC and FRC samples
+Compare behavior across OPC, PPC and FRC samples
 
 
 Analyze conductance variation vs crack presence
